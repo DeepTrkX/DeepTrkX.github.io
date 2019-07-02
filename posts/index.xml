@@ -6,18 +6,27 @@
     <description>Recent content in Posts on Deep Tracking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jul 2019 20:35:03 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 21:21:32 +0200</lastBuildDate>
     
 	<atom:link href="https://deeptrkx.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First Post</title>
-      <link>https://deeptrkx.github.io/posts/first-post/</link>
+      <title>Second</title>
+      <link>https://deeptrkx.github.io/posts/second/</link>
+      <pubDate>Tue, 02 Jul 2019 21:21:32 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/posts/second/</guid>
+      <description> Second Post:  About Project Github Repository  </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://deeptrkx.github.io/posts/first/</link>
       <pubDate>Tue, 02 Jul 2019 20:35:03 +0200</pubDate>
       
-      <guid>https://deeptrkx.github.io/posts/first-post/</guid>
-      <description>Site Under Construction: More content will be updated soon.</description>
+      <guid>https://deeptrkx.github.io/posts/first/</guid>
+      <description>First Post: More content will be updated soon.</description>
     </item>
     
   </channel>
