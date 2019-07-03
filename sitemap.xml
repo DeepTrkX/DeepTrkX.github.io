@@ -3,23 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://deeptrkx.github.io/posts/fourth/</loc>
+    <loc>https://deeptrkx.github.io/about/about/</loc>
+    <lastmod>2019-07-03T18:57:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/infinity/first/</loc>
+    <lastmod>2019-07-03T17:51:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/blog/fourth/</loc>
     <lastmod>2019-07-02T21:25:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/posts/third/</loc>
+    <loc>https://deeptrkx.github.io/blog/third/</loc>
     <lastmod>2019-07-02T21:24:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/posts/second/</loc>
+    <loc>https://deeptrkx.github.io/blog/second/</loc>
     <lastmod>2019-07-02T21:21:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/posts/first/</loc>
+    <loc>https://deeptrkx.github.io/blog/first/</loc>
     <lastmod>2019-07-02T20:35:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/about/</loc>
+    <lastmod>2019-07-03T18:57:05+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/blog/</loc>
+    <lastmod>2019-07-02T21:25:46+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -29,13 +51,13 @@
   
   <url>
     <loc>https://deeptrkx.github.io/</loc>
-    <lastmod>2019-07-02T21:25:46+02:00</lastmod>
+    <lastmod>2019-07-03T18:57:05+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/posts/</loc>
-    <lastmod>2019-07-02T21:25:46+02:00</lastmod>
+    <loc>https://deeptrkx.github.io/infinity/</loc>
+    <lastmod>2019-07-03T17:51:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   
