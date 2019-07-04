@@ -12,21 +12,22 @@
     
     
     <item>
-      <title></title>
+      <title>FAIR</title>
       <link>https://deeptrkx.github.io/project/fair/</link>
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/project/fair/</guid>
-      <description>FAIR Facility for Antiproton and Ion Research (FAIR) is a future facility being build at GSI Darmstadt. Watch the introduction below.   PANDA Detector The full dector being built at FAIR adjacent to GSI Helmholtz Center for Heavy Ion Research. PANDA (Proton ANnihiation at DArmstadt) is shown below: Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking system at PANDA. Made from Straw Tubes, gives $4\pi\$ coverage.</description>
+      <description>Facility for Antiproton and Ion Research (FAIR) is a future facility being build at GSI Darmstadt. Watch the introduction below.   PANDA Detector The full dector being built at FAIR adjacent to GSI Helmholtz Center for Heavy Ion Research. PANDA (Proton ANnihiation at DArmstadt) is shown below:
+Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking system at PANDA. Made from Straw Tubes, gives $4\pi\$ coverage.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Deep Tracking</title>
       <link>https://deeptrkx.github.io/project/deeptrx/</link>
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/project/deeptrx/</guid>
-      <description> Deep.TrkX Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN) and Recurrent Networks (RNN).
+      <description> Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN) and Recurrent Networks (RNN).
 LSTM (RNN): Deep CNN: </description>
     </item>
     
