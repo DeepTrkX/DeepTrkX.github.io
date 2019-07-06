@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>FAIR</title>
+      <title>Universe in the Lab.</title>
       <link>https://deeptrkx.github.io/project/fair/</link>
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
@@ -22,13 +22,21 @@ Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking s
     </item>
     
     <item>
-      <title>Deep Tracking</title>
+      <title>Deep.TrkX</title>
       <link>https://deeptrkx.github.io/project/deeptrx/</link>
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/project/deeptrx/</guid>
-      <description> Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN) and Recurrent Networks (RNN).
-LSTM (RNN): Deep CNN: </description>
+      <description>Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN) and Recurrent Networks (RNN).</description>
+    </item>
+    
+    <item>
+      <title>Singularity De-classified</title>
+      <link>https://deeptrkx.github.io/singularity/first/</link>
+      <pubDate>Sat, 06 Jul 2019 15:22:37 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/singularity/first/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,7 +45,7 @@ LSTM (RNN): Deep CNN: </description>
       <pubDate>Wed, 03 Jul 2019 18:57:05 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/about/about/</guid>
-      <description>A researcher, avid reader and traveler.</description>
+      <description>Singularity is where you imerse deep into your thoughts, and Infinity is where you broaden them.</description>
     </item>
     
     <item>
