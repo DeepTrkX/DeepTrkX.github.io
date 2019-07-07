@@ -17,8 +17,36 @@
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/project/fair/</guid>
-      <description>Facility for Antiproton and Ion Research (FAIR) is a future facility being build at GSI Darmstadt. Watch the introduction below.   PANDA Detector The full dector being built at FAIR adjacent to GSI Helmholtz Center for Heavy Ion Research. PANDA (Proton ANnihiation at DArmstadt) is shown below:
-Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking system at PANDA. Made from Straw Tubes, gives $4\pi\$ coverage.</description>
+      <description>Facility for Antiproton and Ion Research (FAIR) is a future facility being build at GSI Darmstadt. Watch the introduction below.   ![Straw Tube Tracker](/images/trk.gif) ![Straw Tube Tracker](/images/stt.jpg) ![Panda Experiment](/images/panda.jpg) -- </description>
+    </item>
+    
+    <item>
+      <title>The Alchemist</title>
+      <link>https://deeptrkx.github.io/blog/001/</link>
+      <pubDate>Tue, 02 Jul 2019 20:35:03 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/blog/001/</guid>
+      <description>Symbolism at its best.</description>
+    </item>
+    
+    <item>
+      <title>Proton Annihilation</title>
+      <link>https://deeptrkx.github.io/project/panda/</link>
+      <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/project/panda/</guid>
+      <description>The full dector being built at FAIR adjacent to GSI Helmholtz Center for Heavy Ion Research. Proton ANnihiation at DArmstadt (PANDA) is shown below:
+The sub-detector, STT is part of the central tracking system at PANDA. Made from Straw Tubes, gives $4\pi$ coverage.
+![Straw Tube Tracker](/images/trk.gif) ![Straw Tube Tracker](/images/stt.jpg) ![Panda Experiment](/images/panda.jpg) -- </description>
+    </item>
+    
+    <item>
+      <title>The Outsider</title>
+      <link>https://deeptrkx.github.io/blog/002/</link>
+      <pubDate>Tue, 02 Jul 2019 21:21:32 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/blog/002/</guid>
+      <description>A story about an insensitive hyper realist character.</description>
     </item>
     
     <item>
@@ -27,7 +55,35 @@ Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking s
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/project/deeptrx/</guid>
-      <description>Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN) and Recurrent Networks (RNN).</description>
+      <description>Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN)* and Recurrent Networks (RNN).
+*Courtesy of asimovinstitute.org</description>
+    </item>
+    
+    <item>
+      <title>The Fall</title>
+      <link>https://deeptrkx.github.io/blog/003/</link>
+      <pubDate>Tue, 02 Jul 2019 21:24:33 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/blog/003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compressed Baryonic Matter</title>
+      <link>https://deeptrkx.github.io/project/cbm/</link>
+      <pubDate>Sun, 07 Jul 2019 22:39:44 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/project/cbm/</guid>
+      <description>The Compressed Baryonic Matter (CBM) experiment will be one of the major scientific pillars of the future Facility for Antiproton and Ion Research (FAIR) in Darmstadt. The goal of the CBM research program is to explore the QCD phase diagram in the region of high baryon densities using high-energy nucleus-nucleus collisions. This includes the study of the equation-of-state of nuclear matter at neutron star core densities, and the search for phase transitions, chiral symmetry restoration, and exotic forms of (strange) QCD matter.</description>
+    </item>
+    
+    <item>
+      <title>Lord of the Flies</title>
+      <link>https://deeptrkx.github.io/blog/004/</link>
+      <pubDate>Tue, 02 Jul 2019 21:25:46 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/blog/004/</guid>
+      <description>A master piece by William Golding.</description>
     </item>
     
     <item>
@@ -40,7 +96,7 @@ Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking s
     </item>
     
     <item>
-      <title>About</title>
+      <title></title>
       <link>https://deeptrkx.github.io/about/about/</link>
       <pubDate>Wed, 03 Jul 2019 18:57:05 +0200</pubDate>
       
@@ -55,42 +111,6 @@ Straw Tube Tracker (STT) The sub-detector, STT is part of the central tracking s
       
       <guid>https://deeptrkx.github.io/infinity/first/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Fourth</title>
-      <link>https://deeptrkx.github.io/blog/fourth/</link>
-      <pubDate>Tue, 02 Jul 2019 21:25:46 +0200</pubDate>
-      
-      <guid>https://deeptrkx.github.io/blog/fourth/</guid>
-      <description>Fourth Post: Connecting the source with the production repository. However, styling is right.</description>
-    </item>
-    
-    <item>
-      <title>Third</title>
-      <link>https://deeptrkx.github.io/blog/third/</link>
-      <pubDate>Tue, 02 Jul 2019 21:24:33 +0200</pubDate>
-      
-      <guid>https://deeptrkx.github.io/blog/third/</guid>
-      <description>Third Post: We will update soon. This is just a demo to build the static site using HUGO.</description>
-    </item>
-    
-    <item>
-      <title>Second</title>
-      <link>https://deeptrkx.github.io/blog/second/</link>
-      <pubDate>Tue, 02 Jul 2019 21:21:32 +0200</pubDate>
-      
-      <guid>https://deeptrkx.github.io/blog/second/</guid>
-      <description> Second Post:  About Project Github Repository  </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://deeptrkx.github.io/blog/first/</link>
-      <pubDate>Tue, 02 Jul 2019 20:35:03 +0200</pubDate>
-      
-      <guid>https://deeptrkx.github.io/blog/first/</guid>
-      <description>First Post: More content will be updated soon.</description>
     </item>
     
   </channel>
