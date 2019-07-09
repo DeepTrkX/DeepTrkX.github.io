@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://deeptrkx.github.io/project/fair/</loc>
+    <loc>https://deeptrkx.github.io/deepx/deeptrx/</loc>
+    <lastmod>2019-07-03T17:52:06+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/fair/fair/</loc>
     <lastmod>2019-07-03T17:52:06+02:00</lastmod>
   </url>
   
@@ -13,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/project/panda/</loc>
+    <loc>https://deeptrkx.github.io/deepx/heptrkx/</loc>
+    <lastmod>2019-07-09T11:19:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/fair/panda/</loc>
     <lastmod>2019-07-03T17:52:06+02:00</lastmod>
   </url>
   
@@ -23,17 +33,12 @@
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/project/deeptrx/</loc>
-    <lastmod>2019-07-03T17:52:06+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://deeptrkx.github.io/blog/003/</loc>
     <lastmod>2019-07-02T21:24:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/project/cbm/</loc>
+    <loc>https://deeptrkx.github.io/fair/cbm/</loc>
     <lastmod>2019-07-07T22:39:44+02:00</lastmod>
   </url>
   
@@ -81,14 +86,20 @@
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/infinity/</loc>
-    <lastmod>2019-07-03T17:51:54+02:00</lastmod>
+    <loc>https://deeptrkx.github.io/deepx/</loc>
+    <lastmod>2019-07-03T17:52:06+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://deeptrkx.github.io/project/</loc>
+    <loc>https://deeptrkx.github.io/fair/</loc>
     <lastmod>2019-07-03T17:52:06+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://deeptrkx.github.io/infinity/</loc>
+    <lastmod>2019-07-03T17:51:54+02:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deepxes on Deep Tracking</title>
+    <link>https://deeptrkx.github.io/deepx/</link>
+    <description>Recent content in Deepxes on Deep Tracking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Jul 2019 17:52:06 +0200</lastBuildDate>
+    
+	<atom:link href="https://deeptrkx.github.io/deepx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep.TrkX</title>
+      <link>https://deeptrkx.github.io/deepx/deeptrx/</link>
+      <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/deepx/deeptrx/</guid>
+      <description>Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore use of deep learning for event and track reconstruciton in PANDA Experiment (See FAIR). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN)* and Recurrent Networks (RNN).
+*Courtesy of asimovinstitute.org
+Author: Adeel Akram</description>
+    </item>
+    
+    <item>
+      <title>HEP.TrkX</title>
+      <link>https://deeptrkx.github.io/deepx/heptrkx/</link>
+      <pubDate>Tue, 09 Jul 2019 11:19:48 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/deepx/heptrkx/</guid>
+      <description>This is an HEP/ASCR DOE pilot project to evaluate and broaden the range of computational techniques and algorithms utilized in addressing HEP tracking challenges. Specifically the project will provide a framework to develop and evaluate new algorithms for track finding and classification, that will be demonstrated by applying advanced pattern recognition techniques to track candidate formation. For example, an optimized track formation algorithm that scales linearly with LHC luminosity, rather than quadratically or worse, may lead by itself to an order of magnitude improvement in the track processing throughput without affecting the track identification performance, hence maintaining the physics performance intact in the LHC upgrades.</description>
+    </item>
+    
+  </channel>
+</rss>

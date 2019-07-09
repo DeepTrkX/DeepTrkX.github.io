@@ -12,11 +12,22 @@
     
     
     <item>
-      <title>Universe in the Lab.</title>
-      <link>https://deeptrkx.github.io/project/fair/</link>
+      <title>Deep.TrkX</title>
+      <link>https://deeptrkx.github.io/deepx/deeptrx/</link>
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
-      <guid>https://deeptrkx.github.io/project/fair/</guid>
+      <guid>https://deeptrkx.github.io/deepx/deeptrx/</guid>
+      <description>Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore use of deep learning for event and track reconstruciton in PANDA Experiment (See FAIR). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN)* and Recurrent Networks (RNN).
+*Courtesy of asimovinstitute.org
+Author: Adeel Akram</description>
+    </item>
+    
+    <item>
+      <title>Universe in the Lab.</title>
+      <link>https://deeptrkx.github.io/fair/fair/</link>
+      <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/fair/fair/</guid>
       <description>Facility for Antiproton and Ion Research (FAIR) is a future facility being build at GSI Darmstadt. Watch the introduction below.   ![Straw Tube Tracker](/images/trk.gif) ![Straw Tube Tracker](/images/stt.jpg) ![Panda Experiment](/images/panda.jpg) -- </description>
     </item>
     
@@ -26,15 +37,25 @@
       <pubDate>Tue, 02 Jul 2019 20:35:03 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/blog/001/</guid>
-      <description>Symbolism at its best.</description>
+      <description>Symbolism at its best.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac.</description>
+    </item>
+    
+    <item>
+      <title>HEP.TrkX</title>
+      <link>https://deeptrkx.github.io/deepx/heptrkx/</link>
+      <pubDate>Tue, 09 Jul 2019 11:19:48 +0200</pubDate>
+      
+      <guid>https://deeptrkx.github.io/deepx/heptrkx/</guid>
+      <description>This is an HEP/ASCR DOE pilot project to evaluate and broaden the range of computational techniques and algorithms utilized in addressing HEP tracking challenges. Specifically the project will provide a framework to develop and evaluate new algorithms for track finding and classification, that will be demonstrated by applying advanced pattern recognition techniques to track candidate formation. For example, an optimized track formation algorithm that scales linearly with LHC luminosity, rather than quadratically or worse, may lead by itself to an order of magnitude improvement in the track processing throughput without affecting the track identification performance, hence maintaining the physics performance intact in the LHC upgrades.</description>
     </item>
     
     <item>
       <title>Proton Annihilation</title>
-      <link>https://deeptrkx.github.io/project/panda/</link>
+      <link>https://deeptrkx.github.io/fair/panda/</link>
       <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
       
-      <guid>https://deeptrkx.github.io/project/panda/</guid>
+      <guid>https://deeptrkx.github.io/fair/panda/</guid>
       <description>The full dector being built at FAIR adjacent to GSI Helmholtz Center for Heavy Ion Research. Proton ANnihiation at DArmstadt (PANDA) is shown below:
 The sub-detector, STT is part of the central tracking system at PANDA. Made from Straw Tubes, gives $4\pi$ coverage.
 ![Straw Tube Tracker](/images/trk.gif) ![Straw Tube Tracker](/images/stt.jpg) ![Panda Experiment](/images/panda.jpg) -- </description>
@@ -46,17 +67,7 @@ The sub-detector, STT is part of the central tracking system at PANDA. Made from
       <pubDate>Tue, 02 Jul 2019 21:21:32 +0200</pubDate>
       
       <guid>https://deeptrkx.github.io/blog/002/</guid>
-      <description>A story about an insensitive hyper realist character.</description>
-    </item>
-    
-    <item>
-      <title>Deep.TrkX</title>
-      <link>https://deeptrkx.github.io/project/deeptrx/</link>
-      <pubDate>Wed, 03 Jul 2019 17:52:06 +0200</pubDate>
-      
-      <guid>https://deeptrkx.github.io/project/deeptrx/</guid>
-      <description>Deep.TrkX (Deep Learning for Tracking) is a project launched at Uppsala University which is mandated to explore deep use of deep learning for event and track reconstruciton in PANDA Experiment (See below). Some of the techniques being used are Dense Network (DNN), Covulutional (CNN)* and Recurrent Networks (RNN).
-*Courtesy of asimovinstitute.org</description>
+      <description>A story about an insensitive hyper realist character. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac.</description>
     </item>
     
     <item>
@@ -70,10 +81,10 @@ The sub-detector, STT is part of the central tracking system at PANDA. Made from
     
     <item>
       <title>Compressed Baryonic Matter</title>
-      <link>https://deeptrkx.github.io/project/cbm/</link>
+      <link>https://deeptrkx.github.io/fair/cbm/</link>
       <pubDate>Sun, 07 Jul 2019 22:39:44 +0200</pubDate>
       
-      <guid>https://deeptrkx.github.io/project/cbm/</guid>
+      <guid>https://deeptrkx.github.io/fair/cbm/</guid>
       <description>The Compressed Baryonic Matter (CBM) experiment will be one of the major scientific pillars of the future Facility for Antiproton and Ion Research (FAIR) in Darmstadt. The goal of the CBM research program is to explore the QCD phase diagram in the region of high baryon densities using high-energy nucleus-nucleus collisions. This includes the study of the equation-of-state of nuclear matter at neutron star core densities, and the search for phase transitions, chiral symmetry restoration, and exotic forms of (strange) QCD matter.</description>
     </item>
     
